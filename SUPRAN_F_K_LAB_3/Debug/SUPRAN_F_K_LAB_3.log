@@ -1,0 +1,9 @@
+﻿  SUPRAN_F_K_LAB_3.cpp
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(19,9): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(21,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(45,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3\SUPRAN_F_K_LAB_3.cpp(100,36): warning C4018: >=: несоответствие типов со знаком и без знака
+  SUPRAN_F_K_LAB_3.vcxproj -> D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_3\Debug\SUPRAN_F_K_LAB_3.exe
